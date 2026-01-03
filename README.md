@@ -1,93 +1,143 @@
-# 👋 Hi, I'm Harsh
+# 👋 Hi, I'm Parshant Ahlawat
 
-🚀 **Full Stack Developer** | MERN Stack | Backend-Focused  
-🎓 Bachelor of Computer Applications (BCA)  
-🇮🇳 India
+🚀 **Full Stack Developer (MERN Stack)**  
+💻 Modern Web Applications Enthusiast  
+📍 Bahadurgarh, Haryana, India  
 
----
-
-## 🧑‍💻 About Me
-
-- 💡 Full Stack Developer with strong focus on **Backend Development**
-- ⚙️ Experienced in building **scalable APIs**, authentication systems & admin panels
-- 🔐 Implemented **JWT + OTP based authentication**, Email & Phone verification
-- 🌐 Worked with **Google OAuth (idToken based secure flow)**
-- 🧠 I believe in **clean architecture, readable code & real-world logic**
-- 📈 Always learning & improving my system design and backend skills
+📧 Email: patshantahlawat@gmail.com  
+🔗 Portfolio: https://parshantahlawatportfolio.netlify.app  
+💻 GitHub: https://github.com/parshantahlawat27668  
+💼 LinkedIn: https://www.linkedin.com/in/parshant-ahlawat-751b7b253/  
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-### 💻 Frontend
-- React.js
-- TypeScript
-- JavaScript (ES6+)
-- CSS / Modular CSS
-- GSAP (Animations)
+I'm a **Full Stack MERN Developer** with hands-on experience in building **scalable, secure, and responsive web applications**.  
+I enjoy working on **real-world backend logic**, clean API design, and performance-optimized frontend experiences.
+
+- 🔐 Strong in **Authentication & Authorization**
+- ⚙️ Experienced with **RESTful APIs & MVC Architecture**
+- 🧠 Depth-first learning mindset
+- 🤝 Team player with good problem-solving skills
+
+---
+
+## 🛠️ Technical Skills
+
+### 🎨 Frontend
+- HTML5, CSS3, Tailwind CSS
+- JavaScript (ES6+), TypeScript
+- React.js, Next.js
+- Redux Toolkit
+- GSAP Animations
+- DOM Manipulation
 
 ### ⚙️ Backend
-- Node.js
-- Express.js
-- MongoDB
-- Mongoose
-- REST APIs
+- Node.js, Express.js
+- RESTful APIs
+- JWT Authentication
+- Bcrypt
+- OAuth 2.0
+- Multer & Cloudinary
+- MVC Architecture
+- Custom Middleware & Error Handling
 
-### 🔐 Authentication & Security
-- JWT (Access & Refresh Tokens)
-- OTP-based Email & Phone Verification
-- Google OAuth (idToken verification)
-- Cookie-based Auth
+### 🗄️ Database
+- MongoDB, Mongoose
+- NoSQL Schema Design
+- Aggregation Pipelines
+- Indexing & Query Optimization
+- Data Validation & CRUD Operations
+- MongoDB Atlas
+- Basic SQL Concepts
 
-### ☁️ Tools & Services
-- Cloudinary (Image Uploads)
+### 🧰 Tools & Platforms
 - Git & GitHub
 - Postman
-- Vite
-- MongoDB Tools
+- Netlify, Render
+- Cloudinary
+- VS Code, Chrome DevTools
 
 ---
 
-## 📂 Projects Highlights
+## 📂 Projects
 
-### 🛒 Full Stack E-Commerce / Admin Panel
-- Bulk product upload via **CSV + Images**
-- Cloudinary image handling
-- Advanced filters, sorting & infinite scroll
-- Admin product edit & management
-- Secure authentication system
+### ⌨️ Typing Test Application
+Real-time typing test app measuring **WPM & accuracy** with instant feedback.  
+Smooth performance using Redux Toolkit and responsive UI.
 
-### 🔐 Authentication System
-- Register / Login / Logout
-- Email & Phone OTP verification
-- Token refresh mechanism
-- Google OAuth integration
-- Role-based access (Admin / User)
+**Tech:** React.js, Redux Toolkit, Modular CSS  
+🔗 Live: https://fastfingerstypingtest.netlify.app  
+💻 Code: https://github.com/parshantahlawat27668/fastfingers  
 
 ---
 
-## 🎯 Currently Learning
-- Advanced TypeScript
-- System Design (Backend)
-- Performance Optimization
-- Secure API Design
+### 📝 QuickNotes Application
+Secure notes app with **Email & Google Authentication**, full CRUD features, and responsive UI.
+
+**Tech:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS  
+🔗 Live: https://quicknotes26.netlify.app  
+💻 Code: https://github.com/parshantahlawat27668/quicknotes  
+
+---
+
+### 🛒 Full-Stack E-commerce Web Application
+Complete MERN platform with **Admin Dashboard**, JWT-based authentication, product CRUD, filters & sorting.  
+APIs built using MVC architecture and tested via Postman.
+
+**Tech:** React.js, Redux Toolkit, Node.js, Express.js, MongoDB, Multer, Cloudinary  
+💻 Code: https://github.com/parshantahlawat27668  
+
+---
+
+### 🌐 Personal Portfolio
+Personal portfolio showcasing projects with **GSAP animations**, smooth scrolling, and performance optimization.
+
+**Tech:** React.js, GSAP, Modular CSS, Vite  
+🔗 Live: https://parshantahlawatportfolio.netlify.app  
+
+---
+
+## 🎓 Education
+
+**Bachelor of Computer Applications (BCA)**  
+Maharshi Dayanand University, Rohtak  
+📅 2022 – 2025  
+
+**Relevant Coursework:**  
+DSA, DBMS, Networking, Web Development
+
+---
+
+## 📜 Courses & Certifications
+
+### Frontend Development
+Hands-on experience with modern frontend technologies including React, TypeScript, GSAP, Redux Toolkit, and responsive UI design.  
+*(Industry-aligned training inspired by Sheriyans Coding School)*
+
+### Backend Development
+Built scalable APIs with authentication, OAuth, file handling, and MVC architecture.  
+*(Guided learning inspired by Chai With Code)*
+
+### Database & MongoDB
+Advanced MongoDB concepts including schema design, aggregation, indexing, and optimization.  
+*(Learning inspired by Thapa Technical)*
+
+---
+
+## 🌐 Languages
+- Hindi
+- English
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parshantahlawat27668&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
-
----
-
-## 🤝 Let's Connect
-
-- 💼 GitHub: https://github.com/YOUR_GITHUB_USERNAME
-- 💬 Open to collaboration & backend-heavy projects
-- 📫 Always ready to learn and build 🚀
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parshantahlawat27668&layout=compact&theme=radical)
 
 ---
 
-⭐ **If you like my work, consider giving a star to my repositories!**
+⭐ **Feel free to explore my repositories and connect with me!**
